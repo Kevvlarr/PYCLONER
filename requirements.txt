@@ -1,0 +1,5 @@
+psutil
+pypresence
+discord
+asyncio
+colorama
