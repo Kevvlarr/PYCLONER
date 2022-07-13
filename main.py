@@ -67,7 +67,6 @@ async def on_ready():
 
     {Style.RESET_ALL}""")
     await asyncio.sleep(5)
-    client.close()
 
 
 client.run(token, bot=False)
